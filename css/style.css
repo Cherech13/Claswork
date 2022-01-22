@@ -1,0 +1,8 @@
+header {
+    background-color: royalblue;
+    margin-top: 15px;
+}
+
+.navigation {
+    display: flex;
+}
