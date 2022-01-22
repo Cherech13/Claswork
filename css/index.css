@@ -14,12 +14,12 @@ header {
 }
 
 .header-home {
-	font-size: 32px;
+	font-size: 30px;
 	font-weight: bold;
 	color: burlywood;
 	margin-left: 140px;
 	border: 3px solid rgb(129, 151, 247);
-	padding: 10px;
+	padding: 9px;
 }
 
 .header-nav {
@@ -32,7 +32,7 @@ header {
 }
 
 .header-home:hover {
-	box-shadow: -5px -5px 15px 4px rgb(160, 177, 253);
+	box-shadow: -5px -5px 55px 14px rgb(160, 177, 253);
 	transition: 1s;
 	background: rgb(100, 127, 245);
 	color: #fff;
@@ -40,7 +40,7 @@ header {
 }
 
 .header-nav:hover {
-	box-shadow: -5px -5px 15px 4px rgb(160, 177, 253);
+	box-shadow: -5px -5px 45px 14px rgb(160, 177, 253);
 	transition: 1s;
 	background: rgb(100, 127, 245);
 	color: #fff;
