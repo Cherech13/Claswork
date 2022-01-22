@@ -14,10 +14,12 @@ header {
 }
 
 .header-home {
-	font-size: 40px;
+	font-size: 32px;
 	font-weight: bold;
 	color: burlywood;
 	margin-left: 140px;
+	border: 3px solid rgb(100, 127, 245);
+	padding: 10px;
 }
 
 .header-nav {
@@ -25,4 +27,20 @@ header {
 	font-weight: bold;
 	color: burlywood;
 	margin-right: 60px;
+	border: 3px solid rgb(100, 127, 245);
+	padding: 10px;
+}
+
+.header-home:hover {
+	transition: 1s;
+	background: rgb(100, 127, 245);
+	color: #fff;
+	border: 3px solid white;
+}
+
+.header-nav:hover {
+	transition: 1s;
+	background: rgb(100, 127, 245);
+	color: #fff;
+	border: 3px solid white;
 }
